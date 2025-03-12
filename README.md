@@ -22,8 +22,8 @@
             min-height: 200px;
         }
         input {
-            background: black;
-            color: limegreen;
+            background: lightpink;
+            color: pink;
             border: none;
             font-family: "Courier New", monospace;
             font-size: 16px;
@@ -53,7 +53,7 @@
     </div>
 
     <div id="proposal">
-        <h1>Correct! Will You Marry Me? 💍❤</h1>
+        <h1>Correct! Do You Love Me 💍❤</h1>
         <img src="https://media.giphy.com/media/3oz8xKaR836UJOYeOc/giphy.gif" alt="Happy GIF">
     </div>
 
